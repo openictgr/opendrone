@@ -1,2 +1,3 @@
-# opendrone
-OpenDrone Emergency Support: Decentralised AED Delivery Network
+# OpenDrone VTOL
+
+Full GitHub-ready project.
